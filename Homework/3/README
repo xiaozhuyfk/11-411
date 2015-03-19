@@ -1,0 +1,8 @@
+To do the Bonus Task 1, I compute the distance between a mispelled word and a trie.
+
+For the initialization step, I simply create a trie and put all words in the dictionary into the trie.
+Each trie node has a character(letter), a word(None if invalid), a parent, and a set of subsequent letter nodes
+
+To compute the distance between the word and the trie, the process is just like filling in the distance table
+row by row. For the last distance value for a given row, if the distance is in the given range and the trie node
+in process contains a valid word, then we will add this word into the result list. At last, we just sort the list, and get the word with the least edit distance.

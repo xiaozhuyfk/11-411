@@ -1,0 +1,6 @@
+Testing on games.txt
+First half as training data, second half as test data:
+Perplexity: 698.253693
+
+Second half as training data, first half as test data:
+Perplexity: 693.136576

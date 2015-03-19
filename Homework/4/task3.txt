@@ -1,0 +1,43 @@
+The following is the listing of the log of the probabalities of the predicted classes for the test set speeches.
+
+For train.txt and test.txt:
+Speech 0: RED = -24497.803, BLUE = -24351.538
+Speech 1: RED = -17305.954, BLUE = -17029.163
+Speech 2: RED = -35372.642, BLUE = -34489.026
+Speech 3: RED = -8993.057, BLUE = -8999.135
+Speech 4: RED = -13353.755, BLUE = -12884.375
+Speech 5: RED = -46383.748, BLUE = -46242.871
+Speech 6: RED = -17750.290, BLUE = -17570.722
+Speech 7: RED = -28211.051, BLUE = -28116.788
+Speech 8: RED = -29024.883, BLUE = -28759.703
+Speech 9: RED = -21367.811, BLUE = -20843.142
+Speech 10: RED = -21472.458, BLUE = -20965.571
+Speech 11: RED = -29611.316, BLUE = -29319.637
+Speech 12: RED = -14466.067, BLUE = -15219.403
+Speech 13: RED = -18112.774, BLUE = -18639.662
+Speech 14: RED = -18298.812, BLUE = -18839.523
+Speech 15: RED = -11207.680, BLUE = -11620.888
+Speech 16: RED = -11020.719, BLUE = -11503.687
+Speech 17: RED = -9910.238, BLUE = -10230.156
+
+For train2.txt and test2.txt:
+Speech 0: RED = -22423.663, BLUE = -22251.584
+Speech 1: RED = -15978.162, BLUE = -15616.575
+Speech 2: RED = -31773.199, BLUE = -31533.784
+Speech 3: RED = -8110.616, BLUE = -8130.282
+Speech 4: RED = -12759.686, BLUE = -12197.495
+Speech 5: RED = -41687.117, BLUE = -42172.600
+Speech 6: RED = -16765.180, BLUE = -16462.877
+Speech 7: RED = -26048.677, BLUE = -26287.526
+Speech 8: RED = -27121.127, BLUE = -26891.567
+Speech 9: RED = -19494.426, BLUE = -19117.571
+Speech 10: RED = -19590.525, BLUE = -19533.200
+Speech 11: RED = -26685.151, BLUE = -26910.859
+Speech 12: RED = -13286.277, BLUE = -13750.200
+Speech 13: RED = -16336.224, BLUE = -16710.505
+Speech 14: RED = -16884.527, BLUE = -17178.999
+Speech 15: RED = -9920.666, BLUE = -10254.720
+Speech 16: RED = -9747.891, BLUE = -10135.525
+Speech 17: RED = -8953.531, BLUE = -9087.262
+
+From these statistics, we find that the probablities of two classes are pretty close, so no predictions are more "certain" than others. For those classifications that are wrong, the probabilities do not indicate low confidence.

@@ -1,0 +1,18 @@
+This test is based on games.txt
+
+For Unigram:
+There are 6229 types of unigrams
+Top frequent unigrams are ',' / 'to' / 'the' / '.' / 'and' / 'of' 
+
+For Bigram:
+There are 41625 types of bigrams
+Top frequent bigrams are 'personal information' / ', and' / '. We' / 'of the' / 'personal information' / '. or'
+
+For Trigram:
+There are 84024 types of trigrams
+Top frequent trigrams are '. if you' / 'Covers Media Group' / '. We may' / 'your personal information' /
+    	     	      	  ', such as' / 'products and services'
+
+
+Some of the frequent N-grams are closely related to the topic, like 'personal information' and 'Covers Media Group'
+

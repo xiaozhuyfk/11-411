@@ -1,0 +1,9 @@
+Testing on a test set of only 18 speeches may not accurately reflect the estimation and the effectiveness of our classifier.
+
+In order to make a better evaluation:
+1. We can add more test cases
+2. Split each speech into small segments and test on each segment
+
+Drawbacks:
+1. It might be hard to find a lot of test cases with proper labels
+2. For each segment, the lack of appearances of vocabularies in the training set may also influence our evaluation.

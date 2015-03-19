@@ -1,0 +1,14 @@
+Testing games.txt
+Perplexity: 719.841797
+
+Testing health.txt
+Perplexity: 710.605601
+
+Testing news.txt
+Perplexity: 652.378339
+
+Testing shopping.txt
+Perplexity: 679.528055
+
+Testing sports.txt
+Perplexity: 664.208692

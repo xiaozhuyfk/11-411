@@ -1,0 +1,9 @@
+For train.txt and test.txt:
+Overall Accuracy: 0.944
+BLUE: Precision = 1.000, Recall = 0.917
+RED: Precision = 0.857, Recall = 1.000
+
+For train2.txt and test2.txt
+Overall Accuracy: 0.778
+BLUE: Precision = 1.000, Recall = 0.667
+RED: Precision = 0.600, Recall = 1.000
